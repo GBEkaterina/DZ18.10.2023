@@ -1,0 +1,15 @@
+C:\Users\Владелец\OneDrive\Рабочий стол\Аналитик\языки программирования\zd1\dz13\obj\Debug\net6.0\dz13.csproj.AssemblyReference.cache
+C:\Users\Владелец\OneDrive\Рабочий стол\Аналитик\языки программирования\zd1\dz13\obj\Debug\net6.0\dz13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Владелец\OneDrive\Рабочий стол\Аналитик\языки программирования\zd1\dz13\obj\Debug\net6.0\dz13.AssemblyInfoInputs.cache
+C:\Users\Владелец\OneDrive\Рабочий стол\Аналитик\языки программирования\zd1\dz13\obj\Debug\net6.0\dz13.AssemblyInfo.cs
+C:\Users\Владелец\OneDrive\Рабочий стол\Аналитик\языки программирования\zd1\dz13\obj\Debug\net6.0\dz13.csproj.CoreCompileInputs.cache
+C:\Users\Владелец\OneDrive\Рабочий стол\Аналитик\языки программирования\zd1\dz13\bin\Debug\net6.0\dz13.exe
+C:\Users\Владелец\OneDrive\Рабочий стол\Аналитик\языки программирования\zd1\dz13\bin\Debug\net6.0\dz13.deps.json
+C:\Users\Владелец\OneDrive\Рабочий стол\Аналитик\языки программирования\zd1\dz13\bin\Debug\net6.0\dz13.runtimeconfig.json
+C:\Users\Владелец\OneDrive\Рабочий стол\Аналитик\языки программирования\zd1\dz13\bin\Debug\net6.0\dz13.dll
+C:\Users\Владелец\OneDrive\Рабочий стол\Аналитик\языки программирования\zd1\dz13\bin\Debug\net6.0\dz13.pdb
+C:\Users\Владелец\OneDrive\Рабочий стол\Аналитик\языки программирования\zd1\dz13\obj\Debug\net6.0\dz13.dll
+C:\Users\Владелец\OneDrive\Рабочий стол\Аналитик\языки программирования\zd1\dz13\obj\Debug\net6.0\refint\dz13.dll
+C:\Users\Владелец\OneDrive\Рабочий стол\Аналитик\языки программирования\zd1\dz13\obj\Debug\net6.0\dz13.pdb
+C:\Users\Владелец\OneDrive\Рабочий стол\Аналитик\языки программирования\zd1\dz13\obj\Debug\net6.0\dz13.genruntimeconfig.cache
+C:\Users\Владелец\OneDrive\Рабочий стол\Аналитик\языки программирования\zd1\dz13\obj\Debug\net6.0\ref\dz13.dll
